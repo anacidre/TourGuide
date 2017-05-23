@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Sanxenxo-TourGuide</string>
+
+    <!-- Category Names -->
+    <string name="todo_tab_name">To Do</string>
+    <string name="food_tab_name">Food and Drink</string>
+    <string name="stay_tab_name">Where to stay</string>
+    <string name="tips_tab_name">Tips</string>
+
+    <!-- List items -->
+    <string name="place_description">Description</string>
+    <string name="place_name">Name</string>
+
+    <!--To Do -->
+    <string name="beach">Playa Silgar</string>
+    <string name="hike">Ruta das Pedras Negras</string>
+    <string name="surfing">Playa Lanzada</string>
+    <string name="island">Visit Isla de Ons</string>
+
+    <!--To Do Descriptions -->
+    <string name="beach_desc">Situated in the middle of the town with white sand and clear turquoise waters. It is a calm beach so it is safe for all of the family!</string>
+    <string name="hike_desc">A 15km hike that takes you around different beaches and also has stunning views!</string>
+    <string name="surfing_desc">Looking to catch some waves? Lanzada is the beach to go. With surf classes for begginers too!</string>
+    <string name="island_desc">Ever felt like going to the Caribbean? This is the closest thing to it, with white beaches and clear waters you are sure to be satisfied.</string>
+
+    <!-- Food and Drink -->
+    <string name="pulpo">Pulpo a la Gallega</string>
+    <string name="mariscos">Mariscos</string>
+    <string name="meat">Ternera Gallega</string>
+    <string name="wine">Albariño</string>
+
+    <!-- Food and Drink Descriptions -->
+    <string name="pulpo_desc">A traditional Spanish Galician dish. This dish is prepared by first boiling the octopus inside a copper cauldron. </string>
+    <string name="mariscos_desc">Being right by the sea, Sanxenxos restaurants offer a wide and fresh variety of seafood.</string>
+    <string name="meat_desc">Is the first beef with integral control and guarantee certificate, which has obtained the maximum recognition and protection worldwide.</string>
+    <string name="wine_desc">A variety of white wine grape grown in Galicia. The wine produced is unusually light, and generally high in acidity.</string>
+
+    <!--To Stay -->
+    <string name="camping">Camping Paxariña</string>
+    <string name="hotels">Hotel Carlos 1 Silgar</string>
+    <string name="apartments">Rent an apartment</string>
+    <string name="parador">Parador Cambados</string>
+
+    <!--To Stay Descriptions -->
+    <string name="camping_desc">Camping for all the family. Whether it is in a Bungalow or a tent, you are sure to have fun! Situated between Montalvo and Paxariñas.</string>
+    <string name="hotel_desc">This 4 star hotel has everything: Spa, tennis courts, gym, childrens activities, outdoor swimming pool, you name it, they have it!</string>
+    <string name="apartments_desc">Want to feel more at home? There are plenty of apartments for rent just for the summer! That way you are travelling from home to home.</string>
+    <string name="parador_desc">The Parador de Cambados is located in an old country house known as Bazán, an elegant ancestral mansion.</string>
+
+    <!-- Tips -->
+    <string name="gallego">Gallego</string>
+    <string name="season">Tourist season</string>
+    <string name="treasures">Hidden treasures</string>
+    <string name="menu">Menu del día</string>
+
+    <!-- Tips Descriptions -->
+    <string name="gallego_desc">As Sanxenxo is in Galicia, Gallego, the official language, is spoken here. But everyone also speaks Castellano (spanish) too!</string>
+    <string name="season_desc">July and August is tourist season, meaning that it gets pretty crowed and to find a spot on the beac becomes more difficult.</string>
+    <string name="treasures_desc">In Sanxenxo you have sea and mountains!! Silgar is a nice beach but there a many other hidden treasures like Playa de Canelas which do no get as busy!</string>
+    <string name="menu_desc"> If you see this sign in a restaurante it means a cheap option for lunch. For about 10€ you can get starters, main, dessert, drink and bread!</string>
+
+</resources>
